@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 À propos de moi
-
+   Formation JobinTeck Full-stack JavaScript avec react
 🎓 DTS en Développement Informatique
 
 💻 Développeur Full-Stack passionné
@@ -35,8 +35,8 @@
 
 ## 🚀 Projets
 
-### 📚 Gestion de Bibliothèque
-Application web de gestion des livres, utilisateurs et emprunts.
+### 📚 Gestion des services automobil
+Application web de gestion de location,vente et transport , utilisateurs.
 
 ### 🛒 Application POS Flutter
 Application de point de vente locale avec SQLite.
